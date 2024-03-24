@@ -1,1 +1,2 @@
 # Bank_Marketing
+Bank Marketing dataset is collected from direct marketing campaign of a bank institution from Portuguese. Marketing campaign can be understood as phone calls to the clients to convince them accept to make a term deposit with their bank. After each call, they are being noted as to no - being the client did not make a deposit and yes - being the client on call accepted to make a deposit. The purpose of this project is to predict if the client on call would accept to make a term deposit or not based on the information of the clients.
